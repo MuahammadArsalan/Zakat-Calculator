@@ -1,0 +1,98 @@
+body{
+    background-color: rgb(103, 117, 106);
+}
+input{
+    width: 20rem;
+ height: 2rem;
+ border-radius: 0.5rem;
+}
+h1{
+    font-size: 3rem;
+    text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+button{
+    /* width: auto;
+    height: 2rem; */
+    background-color: rgb(8, 84, 84);
+    color: white;
+    border-radius: 8px;
+    padding: 10px;
+}
+#inp{
+    margin-top: 30px;
+}
+#btn{
+    margin-bottom: 30px;
+}
+
+#main{
+    width: 50vw;
+    height: auto;
+    border: none;
+    /* border: 1px solid rgb(209, 205, 205); */
+    margin: auto;
+    text-align: center;
+
+}
+
+#div{
+    /* border: 0.5px solid white; */
+    width: 33vw;
+    border: none;
+    background-color: wheat;
+    /* background-color: rgb(226, 197, 138); */
+    border-radius: 15px;
+    height: 8rem;
+    text-align: center; 
+    margin-left: 7.5rem;
+}
+
+#div2{
+    
+    
+    width: 25vw;
+    border: none;
+    background-color: rgb(226, 197, 138);
+    /* background-color: rgb(18, 125, 91); */
+    border-radius: 7px;
+    height: 2rem;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 1rem;
+    /* bottom: 0px; */
+     /* left: 70px; */ 
+}
+#div3{
+    
+    
+    width: 25vw;
+    border: none;
+    background-color: rgb(226, 197, 138);
+    /* background-color: rgb(18, 125, 91); */
+    border-radius: 7px;
+    height: 2rem;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 1.5rem;
+    /* bottom: 0px; */
+     /* left: 70px; */ 
+}
+#div4{
+    
+    
+    width: 25vw;
+    border: none;
+    background-color: rgb(226, 197, 138);
+    /* background-color: rgb(18, 125, 91); */
+    border-radius: 7px;
+    height: 2rem;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 2rem;
+    /* bottom: 0px; */
+     /* left: 70px; */ 
+}
+
